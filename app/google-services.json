@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "535969258106",
-    "firebase_url": "https://learn-ml-kit-4bb8e.firebaseio.com",
-    "project_id": "learn-ml-kit-4bb8e",
-    "storage_bucket": "learn-ml-kit-4bb8e.appspot.com"
+    "project_number": "340298790258",
+    "firebase_url": "https://learn-ml-kit-9ba42.firebaseio.com",
+    "project_id": "learn-ml-kit-9ba42",
+    "storage_bucket": "learn-ml-kit-9ba42.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:535969258106:android:2da69ca9702f2244f2f9c3",
+        "mobilesdk_app_id": "1:340298790258:android:38c37a40ca04948db619eb",
         "android_client_info": {
           "package_name": "com.odlsoon.basic_android_ml_kit"
         }
       },
       "oauth_client": [
         {
-          "client_id": "535969258106-t4vakd2je2sk1b762qk90t0aankmkkch.apps.googleusercontent.com",
+          "client_id": "340298790258-h4stevu9i2oa2kljttocf7tsgu5o2d51.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBaIsMy8pIOG6vw8FB0jjVKfLaN0FJTEL0"
+          "current_key": "AIzaSyDlXveoJ010BE4ryjtBrUlE3vLoLHsihuU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "535969258106-t4vakd2je2sk1b762qk90t0aankmkkch.apps.googleusercontent.com",
+              "client_id": "340298790258-h4stevu9i2oa2kljttocf7tsgu5o2d51.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
